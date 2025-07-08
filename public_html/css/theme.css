@@ -12218,4 +12218,11 @@ footer .copyright {
   font-weight: 500;
 }
 
+.about-section {
+  padding: 10.6rem 0 10.8rem;
+}
+.about-section h2, .about-section .h2 {
+  margin-bottom: 2.6rem;
+}
+
 /*# sourceMappingURL=theme.css.map */
