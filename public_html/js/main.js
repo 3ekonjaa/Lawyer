@@ -70,4 +70,22 @@ $(document).ready(function () {
             }
         });
     }
+
+    if ($('.team-slider').length > 0) {
+        $('.owl-carousel').owlCarousel({
+            loop: true,
+            dots: true,
+            nav:false,
+            responsive: {
+                0: {
+                    items: 1
+                },               
+                728: {
+                    items: 2,
+                    nav: false,
+                    margin: 24
+                }
+            }
+        });
+    }
 });

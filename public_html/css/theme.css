@@ -12189,4 +12189,11 @@ header .navbar-nav .nav-item .nav-link {
   color: #1A77CD;
 }
 
+.team-section {
+  padding: 8.1rem 0 6.8rem;
+}
+.team-section .team-section-title {
+  margin-bottom: 6.1rem;
+}
+
 /*# sourceMappingURL=theme.css.map */
